@@ -4,9 +4,9 @@ This repository contains documentation and explanation for CSET's harm taxonomy 
 
 # AI Incident Database
 
-The (AI Incident Database)[https://incidentdatabase.ai/] is a community-driven AI incident reporting site. Users are "invited to explore the incidents collected to date, view the complete listing, and submit additional incident reports. Researchers are invited to review our working definition of AI incidents." 
+The [AI Incident Database](https://incidentdatabase.ai/) is a community-driven AI incident reporting site. Users are "invited to explore the incidents collected to date, view the complete listing, and submit additional incident reports. Researchers are invited to review our working definition of AI incidents." 
 
 CSET has participated in this review of AI working definitions by developing and implementing a harm taxonomy for incidents included within this database. 
 
 # CSET's Harm Taxonomy 
-Documentation for CSET's annotation process can be found (here)([url](https://github.com/georgetown-cset/CSET-AIID-harm-taxnomy/blob/main/CSET%20V1%20AI%20Annotation%20Guide%20(with%20Schema%20and%20Field%20Descriptions)%2029Jun2023.pdf)https://github.com/georgetown-cset/CSET-AIID-harm-taxnomy/blob/main/CSET%20V1%20AI%20Annotation%20Guide%20(with%20Schema%20and%20Field%20Descriptions)%2029Jun2023.pdf). 
+Documentation for CSET's annotation process can be found [here](https://github.com/georgetown-cset/CSET-AIID-harm-taxnomy/blob/main/CSET%20V1%20AI%20Annotation%20Guide%20(with%20Schema%20and%20Field%20Descriptions)%2029Jun2023.pdf). 
